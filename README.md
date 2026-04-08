@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Tanmayee Chaudhari 👋
 
-<!--
-**casca0106/casca0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Data Science | G.H. Raisoni College, Jalgaon (2025)
 
-Here are some ideas to get you started:
+💡 Passionate about turning raw data into meaningful insights through
+   dashboards, visualizations and analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Python, SQL
+- **Visualization:** Power BI, Tableau, Excel
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Tools:** Jupyter Notebook, Git, Google Colab
+
+## 📂 Projects
+- 🏦 Bank Data Analysis — Power BI, SQL, Tableau
+- 🍕 Zomato Sales Analysis — Power BI, Excel
+- 📄 Resume Classification — Python, Scikit-learn, NLP
+- 📈 Price Prediction — Python, Pandas, Scikit-learn
+
+## 📫 Connect with me
+- 💼 [LinkedIn](https://linkedin.com/in/tanmayee-chaudhari-708939229)
+- 📧 tnchaudhari6803@gmail.com
+
+🔍 Currently looking for **Junior Data Analyst** opportunities!
